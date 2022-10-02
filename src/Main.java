@@ -2,6 +2,7 @@
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("Hello " + " Nursultan");
         String iAm;
         final int num = 18;
         String word = "hello";
